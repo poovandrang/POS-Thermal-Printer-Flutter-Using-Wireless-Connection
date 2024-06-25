@@ -34,6 +34,7 @@
 &nbsp; **5.Print:** Tap the "Print" button to send the text and image data to the specified printer for printing.
 
 ## Screenshots
+![IMG_20240625_112424](https://github.com/poovandrang/POS-Thermal-Printer-Flutter-Using-Wireless-Connection/assets/136569530/c52e90fd-c5a2-4343-8dd4-78aa4cbb66a8)
 
 
 ## Contribution
