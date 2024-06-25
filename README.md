@@ -1,10 +1,10 @@
 # POS Thermal Printer Flutter Application Using Wireless connection
 
 
- ## &nbsp;   This application allows users to interact with printers from their mobile devices, providing a seamless and user-friendly way to print text and images.
+  &nbsp;   This application allows users to interact with printers from their mobile devices, providing a seamless and user-friendly way to print text and images.
 
 ## Purpose
- ### &nbsp; The primary purpose of this application is to enable users to connect to and print from a printer using their mobile devices. By providing an intuitive interface, users can quickly input text, select images, and print their desired content.
+  &nbsp; The primary purpose of this application is to enable users to connect to and print from a printer using their mobile devices. By providing an intuitive interface, users can quickly input text, select images, and print their desired content.
 
 ## Key Features
 + **Image Selection:** Users can choose an image from their device's gallery to include in the print job.
