@@ -1,6 +1,8 @@
 # POS THERMAL PRINTER FLUTTER APPLICATION USING WIRELESS CONNECTION
 
-###    This application allows users to interact with printers from their mobile devices, providing a seamless and user-friendly way to print text and images.
+
+ ###   This application allows users to interact with printers from their mobile devices, providing a seamless and user-friendly way to print text and images.
+ &nbsp;
 
 ## Purpose
 #### The primary purpose of this application is to enable users to connect to and print from a printer using their mobile devices. By providing an intuitive interface, users can quickly input text, select images, and print their desired content.
