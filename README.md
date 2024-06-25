@@ -1,4 +1,4 @@
-# pos_printer
+# POS THERMAL PRINTER FLUTTER APPLICATION USING WIRELESS CONNECTION
 
 A new Flutter project.
 
