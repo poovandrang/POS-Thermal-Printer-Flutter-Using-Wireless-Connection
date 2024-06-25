@@ -2,8 +2,13 @@
 
 ## Purpose:
 The application helps users interact with printers from their mobile devices.
-## Key Features: Image Selection: 
-Users can choose an image from their device's gallery. Text Input: Users can enter text they want to print. Printing Functionality: Once users provide an IP address, text, and an image, they can send this data to a printer for printing. Printer Discovery: The app can scan the local network to discover available printers.
+## Key Features: 
+### Image Selection: 
+Users can choose an image from their device's gallery.
+### Text Input: 
+Users can enter text they want to print. 
+### Printing Functionality:
+Once users provide an IP address, text, and an image, they can send this data to a printer for printing. 
 ## User Interface Elements:
 ### Text Fields: Where users enter the printer's IP address and the text they want to print.
 ### Image Display: Shows the selected image for preview before printing.
