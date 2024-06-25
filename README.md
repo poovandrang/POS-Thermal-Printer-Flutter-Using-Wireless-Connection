@@ -23,15 +23,15 @@
 + **Print:** Initiates the process to send the text and image data to the specified printer.
 
 ## HOW TO USE
-**1.Enter Printer's IP Address:** Input the IP address of the printer you want to connect to.
+&nbsp; **1.Enter Printer's IP Address:** Input the IP address of the printer you want to connect to.
 
-**2.Enter Text:** Type the text you want to print in the provided text field.
+&nbsp; **2.Enter Text:** Type the text you want to print in the provided text field.
 
-**3.Select Image:** Tap the "Upload Photo" button to choose an image from your device's gallery.
+&nbsp; **3.Select Image:** Tap the "Upload Photo" button to choose an image from your device's gallery.
 
-**4.Preview Image:** Ensure the correct image is selected and displayed for preview.
+&nbsp; **4.Preview Image:** Ensure the correct image is selected and displayed for preview.
 
-**5.Print:** Tap the "Print" button to send the text and image data to the specified printer for printing.
+&nbsp; **5.Print:** Tap the "Print" button to send the text and image data to the specified printer for printing.
 
 ## SCREENSHOTS
 
