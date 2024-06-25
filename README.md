@@ -1,16 +1,8 @@
 # POS THERMAL PRINTER FLUTTER APPLICATION USING WIRELESS CONNECTION
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose:
+The application helps users interact with printers from their mobile devices.
+## Key Features: Image Selection: 
+Users can choose an image from their device's gallery. Text Input: Users can enter text they want to print. Printing Functionality: Once users provide an IP address, text, and an image, they can send this data to a printer for printing. Printer Discovery: The app can scan the local network to discover available printers.
+## User Interface Elements:
+Text Fields: Where users enter the printer's IP address and the text they want to print. Image Display: Shows the selected image for preview before printing. Buttons: Upload Photo: Allows users to select an image from their device. Print: Initiates the process to send text and image data to the specified printer. Scan for Printers: Triggers a search for printers on the local network. Status Display: Shows messages such as confirmation of successful printing or alerts if no printers are found.
